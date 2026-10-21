@@ -1,0 +1,12 @@
+/Users/greg/Desktop/Rust/Crackme_V1/target/debug/deps/colored-49d6b7d71e229483.d: /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/Users/greg/Desktop/Rust/Crackme_V1/target/debug/deps/libcolored-49d6b7d71e229483.rlib: /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/Users/greg/Desktop/Rust/Crackme_V1/target/debug/deps/libcolored-49d6b7d71e229483.rmeta: /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs:
+/Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs:
+/Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs:
+/Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs:
+/Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs:
+/Users/greg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs:
